@@ -1,4 +1,4 @@
-# Data Hub MongoDB API
+# Data Strom (Data Hub MongoDB API)
 
 A RESTful API built with **Node.js**, **Express.js**, **MongoDB Atlas**, and **Mongoose ODM**. This project demonstrates cloud-based NoSQL database integration, persistent data storage, and full CRUD operations for managing posts.
 
