@@ -135,6 +135,7 @@ https://data-hub-mongodb-api.onrender.com/posts
 - DELETE /posts/:id
 
 https://data-hub-mongodb-api.onrender.com/posts/:id
+
 The test suite validates:
 
 * Database connection
