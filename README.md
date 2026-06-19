@@ -37,7 +37,7 @@ A RESTful API built with **Node.js**, **Express.js**, **MongoDB Atlas**, and **M
 1. Clone the repository
 
 ```bash
-git clone https://github.com/KChakritha143/data-hub-mongodb-api.git
+git clone https://github.com/KChakritha143/Data-Storm.git
 cd data-hub-mongodb-api
 ```
 
